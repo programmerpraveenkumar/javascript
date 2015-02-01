@@ -1,3 +1,4 @@
+//bug fixing
 function validation(formName,formele){   
     var error='';
     var functions={
